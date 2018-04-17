@@ -1,0 +1,20 @@
+* {
+    font-family: "Open Sans";
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+.container {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+#input {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
