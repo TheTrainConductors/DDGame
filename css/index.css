@@ -11,10 +11,22 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
+    border: white solid 1px;
+}
+
+#left {
+    float: left;
+    padding-left: 1%;
+}
+
+#right {
+    float: right;
+    padding-right: 1%;
 }
 
 #input {
     position: fixed;
     bottom: 0;
-    width: 100%;
+    width: 50%;
+    text-align: center;
 }
